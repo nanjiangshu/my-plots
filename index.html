@@ -2,41 +2,59 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Plots</title>
+  <title>My Plots Gallery</title>
   <style>
-    body { font-family: sans-serif; margin: 2em; }
-    img { max-width: 500px; margin: 10px; display: block; }
-    .plot { margin-bottom: 30px; }
+    body { font-family: Arial, sans-serif; margin: 2em; background: #fdfdfd; }
+    h1 { text-align: center; }
+    .folder { margin-bottom: 40px; }
+    .folder h2 { margin-bottom: 10px; border-bottom: 1px solid #ccc; padding-bottom: 5px; }
+    img { max-width: 600px; margin: 10px 0; display: block; }
   </style>
 </head>
 <body>
-  <h1>My Plots</h1>
-  <div id="plots"></div>
+  <h1>📊 My Plots Gallery</h1>
+  <div id="gallery"></div>
 
   <script>
     const repo = "nanjiangshu/my-plots";
     const apiUrl = `https://api.github.com/repos/${repo}/contents/`;
 
-    async function loadPlots(path = "") {
-      const res = await fetch(apiUrl + path);
-      const files = await res.json();
+    async function fetchJSON(url) {
+      const res = await fetch(url);
+      return res.json();
+    }
 
-      for (const file of files) {
-        if (file.type === "dir") {
-          await loadPlots(file.path); // recurse into folders
-        } else if (file.name.endsWith(".png")) {
-          const div = document.createElement("div");
-          div.className = "plot";
-          div.innerHTML = `
-            <h3>${file.path}</h3>
-            <img src="https://raw.githubusercontent.com/${repo}/main/${file.path}">
-          `;
-          document.getElementById("plots").appendChild(div);
+    async function loadGallery() {
+      const root = await fetchJSON(apiUrl);
+
+      // Filter only timestamped folders
+      let folders = root.filter(f => f.type === "dir");
+
+      // Sort folders descending by name (timestamps: latest first)
+      folders.sort((a, b) => b.name.localeCompare(a.name));
+
+      for (const folder of folders) {
+        const files = await fetchJSON(apiUrl + folder.name);
+        const images = files.filter(f => f.name.endsWith(".png"));
+
+        if (images.length === 0) continue;
+
+        const section = document.createElement("div");
+        section.className = "folder";
+        section.innerHTML = `<h2>${folder.name}</h2>`;
+
+        for (const img of images) {
+          const el = document.createElement("img");
+          el.src = `https://raw.githubusercontent.com/${repo}/main/${img.path}`;
+          el.alt = img.name;
+          section.appendChild(el);
         }
+
+        document.getElementById("gallery").appendChild(section);
       }
     }
 
-    loadPlots();
+    loadGallery();
   </script>
 </body>
 </html>
