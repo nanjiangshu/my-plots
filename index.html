@@ -46,7 +46,7 @@
 
         for (const img of images) {
           const el = document.createElement("img");
-          el.src = `https://raw.githubusercontent.com/${repo}/main/plots/${img.path}`;
+          el.src = `https://raw.githubusercontent.com/${repo}/main/${img.path}`;
           el.alt = img.name;
           section.appendChild(el);
         }
