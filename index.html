@@ -34,6 +34,12 @@
       // Sort folders descending by name (timestamps: latest first)
       folders.sort((a, b) => b.name.localeCompare(a.name));
 
+      // show total folder count at the top
+      const gallery = document.getElementById("gallery");
+      const folderCountInfo = document.createElement("p");
+      folderCountInfo.textContent = `Found ${folders.length} folders.`;
+      gallery.appendChild(folderCountInfo);
+
       for (const folder of folders) {
         const files = await fetchJSON(apiUrl + folder.name);
         const images = files.filter(f => f.name.endsWith(".png"));
