@@ -7,9 +7,9 @@
     body { font-family: Arial, sans-serif; margin: 2em; background: #fdfdfd; }
     h1 { text-align: center; margin-bottom: 0.3em; }
     p.description { text-align: center; max-width: 800px; margin: 0 auto 2em; font-size: 1.1em; color: #444; }
-    .folder { margin-bottom: 40px; }
+    .folder { margin-bottom: 40px; white-space: nowrap; overflow-x: auto; }
     .folder h2 { margin-bottom: 10px; border-bottom: 1px solid #ccc; padding-bottom: 5px; }
-    img { max-width: 600px; margin: 10px 0; display: block; }
+    img { max-width: 600px; margin: 10px; display: inline-block; }
   </style>
 </head>
 <body>
@@ -69,7 +69,6 @@
         const section = document.createElement("div");
         section.className = "folder";
         section.innerHTML = `<h2>${headerText}</h2>`;
-
         for (const img of images) {
           const el = document.createElement("img");
           el.src = `https://raw.githubusercontent.com/${repo}/main/${img.path}`;
