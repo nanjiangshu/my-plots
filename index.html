@@ -12,23 +12,37 @@
   </style>
 </head>
 <body>
-  <h1>📊 My Plots Gallery</h1>
+  <h1>Bigpicture uploading tests</h1>
+  <p>Each test uploads three datasets, each containing 100 files, using the sda-cli tool. The datasets consist of files with the following sizes: 2MB, 20MB, and 200MB.</p> 
   <div id="gallery"></div>
 
   <script>
     const repo = "nanjiangshu/my-plots";
     const apiUrl = `https://api.github.com/repos/${repo}/contents/plots/`;
 
-
     async function fetchJSON(url) {
       const res = await fetch(url);
+      if (!res.ok) throw new Error(`Failed to fetch ${url}: ${res.status}`);
       return res.json();
+    }
+
+    // Resolve IP → { city, country }
+    async function resolveIP(ip) {
+      try {
+        const res = await fetch(`https://ipinfo.io/${ip}/json`);
+        if (!res.ok) return { city: "Unknown", country: "Unknown" };
+        const data = await res.json();
+        return {
+          city: data.city || "Unknown",
+          country: data.country || "Unknown"
+        };
+      } catch {
+        return { city: "Unknown", country: "Unknown" };
+      }
     }
 
     async function loadGallery() {
       const root = await fetchJSON(apiUrl);
-
-      // Filter only timestamped folders
       let folders = root.filter(f => f.type === "dir");
 
       // Sort folders descending by name (timestamps: latest first)
@@ -37,12 +51,25 @@
       for (const folder of folders) {
         const files = await fetchJSON(apiUrl + folder.name);
         const images = files.filter(f => f.name.endsWith(".png"));
+        const infoFile = files.find(f => f.name === "info.json");
 
-        if (images.length === 0) continue;
+        if (images.length === 0 || !infoFile) continue;
+
+        // Load info.json
+        const infoUrl = `https://raw.githubusercontent.com/${repo}/main/${infoFile.path}`;
+        let uploaderInfo = {};
+        try {
+          uploaderInfo = await fetchJSON(infoUrl);
+        } catch {
+          uploaderInfo = {};
+        }
+
+        const ip = uploaderInfo.UploadedFrom || "Unknown";
+        const { city, country } = await resolveIP(ip);
 
         const section = document.createElement("div");
         section.className = "folder";
-        section.innerHTML = `<h2>${folder.name}</h2>`;
+        section.innerHTML = `<h2>${folder.name}, upload from: ${ip}, ${country}, ${city}</h2>`;
 
         for (const img of images) {
           const el = document.createElement("img");
