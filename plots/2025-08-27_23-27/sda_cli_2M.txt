@@ -1,0 +1,899 @@
+1: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 1)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+time="2025-08-27T23:10:06+02:00" level=error msg="Skipping input file /data/tmp/dirt1/datasets/2M/file_2M.bin. Reason: outfile /data/tmp/dirt1/datasets/2M/file_2M.bin.c4gh already exists.\n"
+Error: aborting
+real 0.01
+user 0.00
+sys 0.00
+2: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 2)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.04
+3: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 3)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.06
+4: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 4)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.22
+user 0.15
+sys 0.06
+5: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 5)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.27
+user 0.16
+sys 0.05
+6: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 6)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.05
+7: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 7)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.04
+8: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 8)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.17
+sys 0.04
+9: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 9)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.14
+sys 0.05
+10: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 10)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.28
+user 0.15
+sys 0.05
+11: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 11)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.27
+user 0.17
+sys 0.05
+12: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 12)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.27
+user 0.17
+sys 0.04
+13: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 13)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.15
+sys 0.06
+14: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 14)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.06
+15: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 15)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.15
+sys 0.07
+16: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 16)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.17
+sys 0.03
+17: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 17)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.04
+18: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 18)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.17
+sys 0.03
+19: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 19)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.05
+20: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 20)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.16
+sys 0.05
+21: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 21)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.14
+sys 0.06
+22: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 22)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.14
+sys 0.06
+23: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 23)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.04
+24: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 24)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.14
+sys 0.06
+25: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 25)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.05
+26: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 26)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.16
+sys 0.05
+27: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 27)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.18
+sys 0.02
+28: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 28)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.15
+sys 0.05
+29: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 29)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.17
+sys 0.03
+30: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 30)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.17
+sys 0.04
+31: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 31)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.14
+sys 0.07
+32: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 32)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.15
+sys 0.04
+33: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 33)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.22
+user 0.14
+sys 0.03
+34: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 34)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.15
+sys 0.04
+35: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 35)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.18
+sys 0.03
+36: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 36)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.17
+sys 0.04
+37: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 37)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.29
+user 0.16
+sys 0.05
+38: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 38)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.14
+sys 0.06
+39: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 39)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.05
+40: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 40)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.15
+sys 0.05
+41: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 41)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.04
+42: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 42)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.13
+sys 0.06
+43: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 43)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.15
+sys 0.05
+44: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 44)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.04
+45: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 45)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.05
+46: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 46)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.14
+sys 0.05
+47: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 47)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.17
+sys 0.02
+48: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 48)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.15
+sys 0.04
+49: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 49)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.13
+sys 0.06
+50: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 50)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.15
+sys 0.06
+51: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 51)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.16
+sys 0.05
+52: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 52)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.16
+sys 0.06
+53: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 53)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.06
+54: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 54)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.17
+sys 0.05
+55: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 55)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.15
+sys 0.05
+56: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 56)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.14
+sys 0.06
+57: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 57)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.17
+sys 0.03
+58: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 58)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.12
+sys 0.06
+59: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 59)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.14
+sys 0.05
+60: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 60)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.13
+sys 0.08
+61: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 61)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.16
+sys 0.03
+62: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 62)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.16
+sys 0.03
+63: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 63)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.16
+sys 0.04
+64: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 64)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.17
+sys 0.03
+65: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 65)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.15
+sys 0.05
+66: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 66)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.05
+67: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 67)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.18
+sys 0.04
+68: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 68)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.28
+user 0.19
+sys 0.02
+69: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 69)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.27
+user 0.17
+sys 0.03
+70: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 70)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.17
+sys 0.02
+71: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 71)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.12
+sys 0.05
+72: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 72)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.15
+sys 0.03
+73: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 73)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.17
+sys 0.05
+74: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 74)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.16
+sys 0.04
+75: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 75)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.16
+sys 0.04
+76: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 76)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.16
+sys 0.04
+77: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 77)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.16
+sys 0.06
+78: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 78)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.14
+sys 0.05
+79: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 79)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.14
+sys 0.06
+80: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 80)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.27
+user 0.17
+sys 0.05
+81: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 81)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.18
+sys 0.04
+82: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 82)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.29
+user 0.17
+sys 0.05
+83: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 83)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.16
+sys 0.04
+84: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 84)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.19
+sys 0.03
+85: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 85)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.14
+sys 0.06
+86: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 86)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.24
+user 0.15
+sys 0.05
+87: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 87)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.14
+sys 0.07
+88: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 88)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.14
+sys 0.06
+89: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 89)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.18
+sys 0.02
+90: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 90)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.17
+sys 0.05
+91: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 91)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.14
+sys 0.08
+92: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 92)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.14
+sys 0.05
+93: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 93)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.15
+sys 0.05
+94: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 94)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.18
+sys 0.03
+95: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 95)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.27
+user 0.19
+sys 0.03
+96: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 96)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.27
+user 0.17
+sys 0.04
+97: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 97)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.16
+sys 0.04
+98: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 98)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.23
+user 0.14
+sys 0.04
+99: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 99)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.25
+user 0.18
+sys 0.03
+100: Uploading /data/tmp/dirt1/datasets/2M/file_2M.bin (iteration 100)
+The provided access token expires on Thu, 04 Sep 2025 15:25:32 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+Error: Unauthorized: not authorized
+	status code: 401, request id: , host id: 
+real 1.26
+user 0.17
+sys 0.05
